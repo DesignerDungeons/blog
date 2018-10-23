@@ -1,1 +1,1 @@
-Trying out github pages with react
+A simple blog for D&D content.
