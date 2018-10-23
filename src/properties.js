@@ -1,9 +1,11 @@
-export const repo = 'test-pages';
-export const owner = 'andyjwest';
+export const repo = 'blog';
+export const owner = 'Designer Dungeons';
 export const githubFileUrl = 'https://raw.githubusercontent.com';
 export const branch = 'master';
 export const pathToPosts = 'public/posts';
-export const appAddress = 'https://andyjwest.github.io/test-pages/';
+export const appAddress = 'https://designerdungeons.github.io/blog';
 export const facebookLink = 'https://facebook.com';
-export const twitterLink = 'https://twitter.com';
 export const siteName ='Designer Dungeons';
+export const shareComment='Check out this post on Designer Dungeons!';
+export const twitterUserName='DesignerDungeo1';
+export const twitterLink = 'https://twitter.com/' + twitterUserName;

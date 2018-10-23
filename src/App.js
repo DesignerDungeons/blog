@@ -8,7 +8,7 @@ import beBetter from "./posts/be-a-better-info.json";
 import brewBits from "./posts/brew-bits-info.json";
 import hotfix from "./posts/hotfix-info.json";
 import demi from "./posts/demi-info.json";
-import {siteName} from "./properties";
+import {siteName, appAddress, shareComment} from "./properties";
 import { faWrench, faFill, faCogs, faPray } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -33,7 +33,9 @@ class App extends Component {
         if(category){
             let post = category.posts.find(post => post.path === ('/' + match.params.postPath));
             return <Post post={{
-                url: category.url + post.url
+                url: category.url + post.url,
+                shareUrl:appAddress + category.path + post.path,
+                shareComment: shareComment
             }}/>
 
         }else{

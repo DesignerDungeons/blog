@@ -27,7 +27,7 @@ export class Post extends Component {
     render() {
         return (
             <div>
-                <ShareButtons />
+                <ShareButtons url={this.props.post.shareUrl} comment={this.props.post.shareComment}/>
                 <div className="shadowed-container post">
                     <ReactMarkdown escapeHtml={false} source={this.state.markdown}/>
                 </div>

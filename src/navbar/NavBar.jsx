@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {NavLink} from 'react-router-dom';
 import './navbar.css';
 import SocialMediaButton from './SocialMediaButton';
-import {twitterLink, facebookLink} from "../properties";
+import {twitterLink} from "../properties";
 
 class NavBar extends Component{
 
@@ -42,7 +42,6 @@ class NavBar extends Component{
             <div className={navClass}>
                 <NavLink to="/" activeClassName="active" exact={true}>{this.props.siteName}</NavLink>
                 <SocialMediaButton icon={['fab', 'twitter-square']} href={twitterLink} />
-                <SocialMediaButton icon={['fab', 'facebook-square']} href={facebookLink} />
                 <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>
             </div>
 		);
