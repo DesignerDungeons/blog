@@ -106,17 +106,30 @@ The world is your oyster when designing features like this, so get creative! Don
 ### Level 14 Feature
 Here is the coolest feature to design for your patron. This is THE big flashy ability that best represents the patron and their warlocks- it is a tool players use to tie together the flavor and mechanics of the subclass.
 
-Our example shows a powerful feature tied to the most iconic of oozes. A player becoming a large amorphous blob that then devours a smaller creature just feels epic. It deals a fair chunk of damage but most importantly emphasizes the player fantasy that the player has been developing these past 14 levels. 
+Our example shows a powerful feature tied to the most iconic of oozes. A player becoming a large amorphous blob that then devours a smaller creature just feels epic. It deals a fair chunk of damage but most importantly emphasizes the player fantasy that the player has been developing these past 14 levels. This feature finalizes and provides a payoff for all the building players have done up to this point. It should work hand in hand with the past three features and mix well with their expanded spell list. 
 
 Consider designing either a **Combat Tool** or a **Utility Tool*. 
 
 #### Combat Tool
-When building your own, you can build any variety of feature. Ours is similar to Hurl through Hell but modeling yours after Create Thrall can be an equally awesome ability. You can branch out into weirder design space here, too- this is the place for your awesome Warlock features that don’t fit anywhere else.
+Hurl Through Hell is a prime example of a combat tool. Dealing bulk damage can be a satisfying tool to add to a Warlock's arsenal. A once a rest feature that chunks down an enemy by channeling the full energy of a patron leads to many memorable moments of deciding when to use it. When a cultist spellcaster is removed from the envirnment and literally thrown and damaged by the 9 layers of hell itself, that cinematic moment will stick while a flat, no context given 14d6 damage is going to be less epic.
+
+Whats core here is the feature can be powerful, should be dripping with flavor, and largely should help cause big shifts in combat. A successful Hurl Through Hell can take a losing encounter and shift it to a neck and neck affair or even a winning situation. Consuming a target in your acid and erroding away at their essence as an ooze embodies what the classic Gelantinous cube does. Reaching a point where you are ascending towards your patrons levels of power is crucial to making the option feel powerful and satisfying. 
 
 
 #### Utility Tool
+
+Create Thrall is an incredible utility tool. This feature can support combat slightly, but largely shines best when used to begin a cult or enthrall a servant for role play. At this point, a Great Old One warlock has ascended past being a servant of an old god and now runs their own servants. 
+
+Creating a tool like Create Thrall is a challenge. Many spells already serve as examples of these tools; divination spells, in particular, are world shaping tools used for utility. Creating a feature that engrains a warlock into both their patron's image and impacts the world around them based off this visage is crucial to making the feature satisfying. Epic moments need to occur with this feature as often as a combat tool provides, but desinging a feature that shines out of combat tends to have a harder time being consistently great.
+
+Create Thrall once again succeeds here. Because of how universal the effect is and how flexible it can be, players can use this feature to change the world around them in any number of ways. From taking over the mayor of a town to enthralling a barbarian to front line in their party for them, players can use the tool creatively to take on problems in new ways other classes can't normally handle. 
 
 Anything that has a huge effect on the character that emphasizes the patron fantasy best should go here. By this level, most door ways are open as far as mechanics go- feel free to make a powerful feature to mess around with. You'd rather have a feature that is too strong here than too weak, and it’s okay to slowly real it in over time if it proves to be oppressing other players at the table. 
 
 
 ### Wrapping Things Up
+
+Building a Warlock Otherwordly Patron is a daunting task, but chunking it up into groups that work together can help. If you have a player looking to play this new option out the gate, consider just designing features for whatever levels they'd need. If a character wants to have a Kraken or Beholder Otherwordly Patron at the start of a new game, just designing their level 1 feature and 1st level expanded spell list is enough to get the off the ground.
+
+Tells us your thoughts about building Warlock patrons! What did we miss? What options do you think are great examples of good game design? Do you think some of the core design patterns are helping or hurting gameplay? Tell us your thoughts on twitter @DesignerDungeons!
+
