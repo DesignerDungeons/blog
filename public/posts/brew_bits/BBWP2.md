@@ -84,19 +84,39 @@ The full Endless Ooze patron includes a greater diversity of 6th level features 
 ### Level 10 Feature
 At 10 warlocks tend to get a boring feature. Passive bonuses don't inherently feel epic, yet they bring a level of epic-ness to the character when effects that hinder the rest of the party fail to affect you. 
 
-With this line of thought, I've presented the most basic iteration of the 10th level feature I'm happy with. What is important to every feature in the game is a sense of ownership. Here, players can pick from a variety of damage types to customize how their body has transformed. It takes on the normal effect of a 10th level feature while still feeling unique to the option. Ooze-locks have a greater constitution than other warlocks tend to have and a feature that supports having a higher Constitution. 
+There are two main ways to approach your level 10 feature: **traditional passive** or **creative diverting**.
 
-When building your own, consider how to make this passive feel unique and attached to your patron. Basic resistances and condition immunities are the easiest way to present the feature, but I'd seriously encourage digging into niche mechanics. Explore what you can do in the system- adding in dice rolling effects and dice manipulation is a great way to make a passive trait feel alive and unique to your option. 
+#### Traditional Passive
+
+With this line of thought, I've presented the most basic iteration of the 10th level feature I'm happy with. What is important to every feature in the game is a sense of ownership. Here, players can pick from a variety of damage types to customize how their body has transformed. It takes on the normal effect of a 10th level feature while still feeling unique to the option and specific to their character. Ooze-locks have a greater constitution than other warlocks tend to have and a feature that supports having a higher Constitution. 
+
+When building your own, consider how to make this passive feel unique and attached to your patron. Basic resistances and condition immunities are the easiest way to design the feature, but I'd seriously encourage digging into niche mechanics instead. Explore what you can do in the system by adding in dice rolling effects and dice manipulation. Add in a new kind of bonus or a reaction the character can take any time they are in a specific kind of danger.
+
+Danger doesn't neccisarily need to be tied to combat, either. Immunity to charms and fear effects have their uses outside of combat as well. Building a passive to support the subclasses play pattern is crucial. The Ooze-lock wants to navigate around a battlefield and slip through dangerous environments. Their level 10 feature gives them more security when doing so.
+
+### Creative Diverting 
+You don't have to stay restricted within this passive box, though. Natural HP and AC progression will keep characters healthy for longer, so while defensive features can help survivability, they aren't required  to keep up with higher CR monsters. 
+
+Adding an expansion on to a core subclass mechanic can be a great way to divert from the norm. Consider if the Great Old One warlock got expanded range on their telepathy feature and could use it in unconventional ways here instead.
+
+Designing options should target what players want to be doing and give them tools to make character and party specific moments to be awesome doing what they want. A passive bonus reduces the epic, game altering moments a character has access to. Adding in a toolbox feature attatched to short/long rests can give players more ways to feel awesome.
+
+The world is your oyster when designing features like this, so get creative! Don't be affraid of creating an overpowered option here. Start high and reel it in if players are finding it frustrating or its trivializing game decisions. 
 
 ### Level 14 Feature
-Here is the coolest feature to design for your patron. This is your big flashy ability that best represents the patron and their warlocks- it is an awesome tool that players use to tie together the flavor of their subclass with the mechanics of their class. 
+Here is the coolest feature to design for your patron. This is THE big flashy ability that best represents the patron and their warlocks- it is a tool players use to tie together the flavor and mechanics of the subclass.
 
 Our example shows a powerful feature tied to the most iconic of oozes. A player becoming a large amorphous blob that then devours a smaller creature just feels epic. It deals a fair chunk of damage but most importantly emphasizes the player fantasy that the player has been developing these past 14 levels. 
 
+Consider designing either a **Combat Tool** or a **Utility Tool*. 
+
+#### Combat Tool
 When building your own, you can build any variety of feature. Ours is similar to Hurl through Hell but modeling yours after Create Thrall can be an equally awesome ability. You can branch out into weirder design space here, too- this is the place for your awesome Warlock features that don’t fit anywhere else.
+
+
+#### Utility Tool
 
 Anything that has a huge effect on the character that emphasizes the patron fantasy best should go here. By this level, most door ways are open as far as mechanics go- feel free to make a powerful feature to mess around with. You'd rather have a feature that is too strong here than too weak, and it’s okay to slowly real it in over time if it proves to be oppressing other players at the table. 
 
 
-
-
+### Wrapping Things Up
