@@ -14,7 +14,7 @@ export class Post extends Component {
     }
 
     componentDidMount(){
-        fetch(buildGithubUrl(this.props.post.url))
+        fetch(buildGithubUrl("posts/" + this.props.post.url))
             .then(response => {
                 if (!response.ok) {
                     throw Error(response.statusText);

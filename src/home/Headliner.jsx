@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
+import {buildGithubUrl} from "../ResponseMapper";
 
 class Headliner extends Component {
 
@@ -13,7 +14,7 @@ class Headliner extends Component {
             <Link className="headline" to={this.props.post.path}>
                 <div className="headline-container shadowed-container">
                     {image}
-                    <img src={this.props.post.icon} className="topic-icon" alt={this.props.post.category}/>
+                    <img src={buildGithubUrl(this.props.post.icon)} className="topic-icon" alt={this.props.post.category}/>
                     <div className='headline-text'>
                         <h1 className="topic-name">{this.props.post.category}</h1>
                         <h2 className="post-name">{this.props.post.name}</h2>

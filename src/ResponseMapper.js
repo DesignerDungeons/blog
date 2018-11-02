@@ -1,5 +1,5 @@
-import {owner, repo, githubFileUrl, branch, pathToPosts} from './properties';
+import {owner, repo, githubFileUrl, branch, publicDir} from './properties';
 
-export function buildGithubUrl(postPath) {
-    return `${githubFileUrl}/${owner}/${repo}/${branch}/${pathToPosts}${postPath}`;
+export function buildGithubUrl(path) {
+    return `${githubFileUrl}/${owner}/${repo}/${branch}/${publicDir}/${path}`;
 }
