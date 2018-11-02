@@ -141,7 +141,7 @@ These kinds of challenges are aimed at showing the party how small they are as w
 #### Closing Thoughts
 Cosmic Horror and Great Old Ones can be a great change of pace from a regular D&D game. They can act both as the driving force behind a huge story arc as well as a small side quest to distract players from the standard fantasy world they have been used to exploring.
 
-Share with us your thought about the Great Old Ones in D&D- do they not fit well in your worlds? What about the Warlock Patron? Did we miss anything hugely major in our tables? Have any more recommendations for worldbuilding? Comment here or hit us up on Twitter, Instagram, Facebook, etc!
+Share with us your thought about the Great Old Ones in D&D- do they not fit well in your worlds? What about the Warlock Patron? Did we miss anything hugely major in our tables? Have any more recommendations for worldbuilding? Tells us your thoughts on Twitter @DesignerDungeons!
 
 
 
