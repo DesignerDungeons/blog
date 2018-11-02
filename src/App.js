@@ -12,6 +12,7 @@ import {siteName, appAddress, shareComment} from "./properties";
 import { faWrench, faFill, faCogs, faPray } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { library } from '@fortawesome/fontawesome-svg-core'
+import ErrorPage from "./home/ErrorPage";
 
 library.add(faPray, faCogs, faFill, faWrench, fab);
 
@@ -32,15 +33,16 @@ class App extends Component {
         let category = this.state.categories.find(category => category.path === ('/' + match.params.categoryPath));
         if(category){
             let post = category.posts.find(post => post.path === ('/' + match.params.postPath));
-            return <Post post={{
-                url: category.url + post.url,
-                shareUrl:appAddress + category.path + post.path,
-                shareComment: shareComment
-            }}/>
+            if(post){
+                return <Post post={{
+                    url: category.url + post.url,
+                    shareUrl:appAddress + category.path + post.path,
+                    shareComment: shareComment
+                }}/>
+            }
 
-        }else{
-            //TODO make an error page
         }
+        return <ErrorPage/>;
     }
 
     render() {
