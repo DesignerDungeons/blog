@@ -2,11 +2,7 @@
 
 <img src = "https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg">
 
-By dim torchlight, Clarence leads his allies through the dank and decrepit mausoleum entrance. The light illuminates the backs of a group of patrolling zombies, each losing bits of themselves as they shamble. The light catches their attention- their heads swivel towards the paladin and his comrades. Dumb, dead stares lock eyes with the grinning chiseled-jaw human. Torch in one hand and blade in the other, blinding light erupts as Clarence cleaves his blade clean through the chests of the undead monsters. The zombies torsos slide off their legs, lifeless to the ground, dimly glowing where they radiance split them. 
-
 A dwarf dawned in his own masterwork armor hides behind an iron statue of his ancestors- the monstrous demon thrashes about in the lava pools of their forge. He readies his axe, mutters a prayer, and turns the corner with a dwarfish battle cry. Orthos charges and leaps at the devil that triples him in size. Radiant flames lick the edge of his blade as it sinks into the chest of the Pit Fiend, splitting its scales and staining his armor in its fell blood. 
-
-A halfling garbed in light chain and a leaf crown wanders through the forest. Out of the corner of her eye, she notices a flicker of pink light and wispy giggles. She looks about the woodland scene, a small frown forming on her face. Just as the fey trickster moves in from behind to strangle and devour it’s tasty halfling treat, her divine sense alerts her to this deception. She spins about and sinks her short halfling blade coated in poison into the shocked invisible faerie’s chest. "Not today, fey friend! These woods belong to the Barleylocks!" 
 
 Today on Hotfix, we are looking at an iconic Paladin ability: Divine Smite. 
 
