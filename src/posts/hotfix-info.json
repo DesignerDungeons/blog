@@ -1,9 +1,9 @@
 {
   "id": "hot_fix",
-  "title": "Hot Fix",
+  "title": "",
   "path": "/hot_fix",
   "url": "/hotfix",
-  "icon":"/icons/002-gears.png",
+  "icon":"",
   "posts": [
     {
       "name":"Long Rest Spell Invocations",
