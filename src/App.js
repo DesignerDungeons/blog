@@ -45,7 +45,7 @@ class App extends Component {
 
     render() {
         return (
-            <BrowserRouter>
+            <BrowserRouter basename='/blog/'>
                 <div>
                     <NavBar siteName={siteName}/>
                     <Route exact path='/' render={({match})=>
