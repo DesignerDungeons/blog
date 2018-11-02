@@ -44,7 +44,7 @@ When setting the stage for a cosmic horror style adventure, consider using some 
 
 These two tables should provide some extra adjectives to help immerse players in a world tormented by Eldritch evils. 
 
-|d10| Environment Descriptor||
+|d10| Environment Descriptor|
 |:--:|:--|
 |1| dismal 
 |2| depressing 
