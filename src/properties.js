@@ -1,5 +1,5 @@
 export const repo = 'blog';
-export const owner = 'Designer Dungeons';
+export const owner = 'DesignerDungeons';
 export const githubFileUrl = 'https://raw.githubusercontent.com';
 export const branch = 'master';
 export const pathToPosts = 'public/posts';

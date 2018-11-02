@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import ReactMarkdown from "react-markdown";
 import ShareButtons from './ShareButtons';
 import './post.css';
+import {buildGithubUrl} from "../ResponseMapper";
 
 export class Post extends Component {
 
@@ -13,7 +14,7 @@ export class Post extends Component {
     }
 
     componentDidMount(){
-        fetch('/posts' + this.props.post.url)
+        fetch(buildGithubUrl(this.props.post.url))
             .then(response => {
                 if (!response.ok) {
                     throw Error(response.statusText);
