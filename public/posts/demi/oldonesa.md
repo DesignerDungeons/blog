@@ -5,9 +5,9 @@
 
 I can hear its voice. I know it's hear." A trembling hand sets upon the neon green slick stone. A flash of incomprehenislbe horror goes through her mind. "Its here. I hear you. I'm coming."
 
-- Narra Stargazer, elvish mad astronomer upon discovering a strange comet's landing site. 
+- Narra Stargazer, elvish astronomer upon discovering a strange comet's landing site. 
 
-5th edition brought a fun and surprising twist with the Warlock class when it released. The class was uniquely different from anything from the playtest. It brought a popular theme from RPGs and stories that was unexplored in Dungeons and Dragons: the Great Old Ones.
+5th edition brought a surprising twist with the Warlock class when it released. The class was uniquely different from anything else from the playtest. It brought a popular theme from RPGs and stories that was unexplored in Dungeons and Dragons: the Great Old Ones.
 
 These entities add a new dynamic to 5th edition. Worlds that have a focus around one of these elder gods look closer to a Lovecraft novel and less like a classic Conan fantasy. From the iconic *Call of Cthulhu* to N'zoth and C'thun of World of Warcraft, DMs have a huge array of tools to draw inspiration from in order to bring a unique feeling to the table when dealing with Old Gods and the madness that is so often closely tied to them.
 
