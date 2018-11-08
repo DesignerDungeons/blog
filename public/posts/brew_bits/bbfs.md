@@ -22,7 +22,7 @@ This is the critical element of fighting styles and what makes them challenging 
 
 >### PDF Link
 >
-> [Here](https://drive.google.com/file/d/1n6tniBGxZjLj121qvhe-G2fO3ZWFDjfI/view?usp=sharing) is an easy, printer friendly PDF link to just the fighting styles!
+> [Here](https://drive.google.com/file/d/1P6S77kBLfI-L56tsXYxNA1Y35rHg-kAg/view?usp=sharing) is an easy, printer friendly PDF link to just the fighting styles!
 
 Here are two iterations of the fighting style I would consider giving to a player looking to fulfil this character concept. The first fits in well with the existing options and expands a solo-play style. The second instead pushes in the direction of Protection by working more as a team focused ability that encourages cooperation and rewards teamwork.
 
