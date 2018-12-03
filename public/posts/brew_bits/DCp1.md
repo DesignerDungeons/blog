@@ -2,6 +2,7 @@
 ## Brew Bits: Druid Circles
 <img src="https://media-hearth.cursecdn.com/avatars/321/488/636271885675892017.jpeg" >
 
+Beautiful, vibrantly colored coral lights the ocean floor with a magical rainbow glow. A band of sahuagin circle threateningly around a wiry elf and her comrades as tunnels of exotic fish and strange sea life dance around the two parties. Hands raised, the elf begins speaking in the sahuagin’s coarse tongue attempting to calm the situation. She knew entering their reef would cause conflict. As an ambassador of both land and sea, if anyone can calm these bloodthirsty sharks, its her.
 
 The next few Brew Bits articles will be on designing druid circles. Druid circles are unique beasts to work with. The class has two key features, wild shape and spellcasting, to build around. They establish a baseline to build off of, and the two base druid circles highlight each independently.
 
@@ -25,15 +26,13 @@ Circle of the tides showcases how to design circles with clear identity. It thri
 ### Druid Circle: Circle of the Tides
 Their ship shakes. Sounds of creaking wood and snapping planks echo through the hull. "Where is it coming from?" "Stop the incoming water, find the sea witch!" As the pirates scramble to the breaking hull, a huge, rose octopus coated in sigils and wearing strange shells and undersea garments crashes through the base and grapples several of the brigands. She's here on a rescue mission, and these thugs won’t get in her way.
 
-Beautiful, vibrantly colored coral lights the ocean floor with a magical rainbow glow. A band of sahuagin circle threateningly around a wiry elf and her comrades as tunnels of exotic fish and strange sea life dance around the two parties. Hands raised, the elf begins speaking in the sahuagin’s coarse tongue attempting to calm the situation. She knew entering their reef would cause conflict. As an ambassador of both land and sea, if anyone can calm these bloodthirsty sharks, its her.
-
 An bearded man coated in tattoos garbed in a blue robe floats on his back down stream. To his pleasant surprise, a group of salmon approach him. He lifts his hand and the water rises with it forming small pools and rings for the fish to swim through. As if they were children, the salmon break from their journey and spend the afternoon playing and swimming with this druid who laughs jovially.
 
 Druids who adopt the circle of the tides share a deep connection with water. These characters understand the importance of water as both a foundation of life and a dangerous force. While often solitary, groups of these druids come together to perform rituals monthly to celebrate and teach newcomers ancient tradition. When danger arises that threatens aquatic entities and waterways they live in, druids of the tide use the vast connecting networks of rivers, oceans and lakes to rally together to defend them.
 
 
 >#### Aquatic Pet
->Whenever creating a druid, you can optionally start the game with a CR 0 beast as a pet. If you're planning on adopting the circle of the tides, consider choosing a beast >from the following table.
+>Whenever creating a druid, you can optionally start the game with a CR 0 beast as a pet. If you're planning on adopting the circle of the tides, consider choosing a beast from the following table.
 >
 >|d6|Pet|
 >|:--:|:--|
@@ -141,8 +140,8 @@ Starting at 2nd level, you can transform into beasts of CR 1/4th or less that ha
 #### Shape the Water
 Additionally at 2nd level, as an action you blast a stream of water 5 feet wide and 30 feet long from you in any direction. Choose one of the following effects:
 
-- **Scalding.** Creatures within the stream must make a Dexterity saving throw against your Druid spell save DC. On a failed save, the target takes 2d8 fire damage as scalding water burns them, and half as much on a successful save. This damage increases to 3d8 at level 5, 4d8 at level 9, 5d8 at level 13, and 6d8 at level 17.
-- **Soothing.** Creatures within the stream regain 1d8 + your Wisdom modifier hit points. The number of healing dice increases to 2d8 at level 5, 3d8  at level 9, 4d8 level 13, and 5d8 at level 17.
+- **Scalding.** Creatures within the stream must make a Dexterity saving throw against your Druid spell save DC. On a failed save, the target takes 2d8 fire damage from the scalding stream, and half as much on a successful save. This damage increases to 3d8 at 5th level, 4d8 at 9th level, 5d8 at 13th level, and 6d8 at 17th level.
+- **Soothing.** Creatures within the stream regain 1d8 + your Wisdom modifier hit points. The number of healing dice increases to 2d8 at 5th level, 3d8  at 9th level, 4d8 13th level, and 5d8 at 17th level.
 
 You can use this feature a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a long rest.
 
@@ -179,6 +178,8 @@ Once you use this feature, you can't use it again until you complete a long rest
 
 ## Closing Thoughts
 There is a lot more to talk about when it comes to designing druid circle. Don't worry, more is coming. By starting with a custom example, references later can help explain deviations from core books and look at ways to approach various designs within D&D. Plus, who doesn't love new archetypes?
+
+For those interested in printing this out and playing it paper only, [here](https://drive.google.com/file/d/1FL6uzd7wiTg7G2cRBpY7ZEuhrPs90E6d/view?usp=sharing) is printer friendly PDF for your content collection!
 
 These longer form brew bits focusing on subclasses are aimed at giving you a full guide with examples to get your ideas out of your head and to the gaming table. Can't wait to see you back here for Part 2! We'll be looking at the core druid features, level 2 and level 6 features there. In the meantime, what do you think of Druid the Tides? Too much content? Is it ludicrously overpowered? Do you love it, hate it, or are you somewhere in the middle? Let us know over on twitter @DesignerDungeons #BrewBits!
 
