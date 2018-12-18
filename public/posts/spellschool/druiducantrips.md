@@ -21,18 +21,18 @@ All of these cantrips have utility out of combat, but none bring unique utility 
 
 Without further ado, here are sprout and conjure tiny woodland beasts!
 
->### Sprout 
-> Conjuration cantrip
->Casting time: 1 Action.
->Range: Touch
-> Components: Verbal (Grow in Druidic), Material (a patch of dirt, a seed, and a drop of water)
->
->You touch a handfull of unoccupied loose dirt. One of the following small plants of your choice sprouts up from the dirt
->- A scrawny bush grows, filling a 5x5  area above the dirt. Hiding lightly obscures whoever is behind or inside it.
->- A sturdy sapling grows. While uprooted and wielded, the sprout acts as a quarterstaff. 
->- A grouping of vines sprouts up, growing up to 15 feet an adjacent wall. The vines can be safely climbed.
->
->You can have at most one plant grown with this feature at a time. Whenever you grow a new plant, the last plant you have grown withers and vanishes. 
+### Sprout 
+Conjuration cantrip
+Casting time: 1 Action.
+Range: Touch
+Components: Verbal (Grow in Druidic), Material (a patch of dirt, a seed, and a drop of water)
+
+You touch a handfull of unoccupied loose dirt. One of the following small plants of your choice sprouts up from the dirt
+- A scrawny bush grows, filling a 5x5  area above the dirt. Hiding lightly obscures whoever is behind or inside it.
+- A sturdy sapling grows. While uprooted and wielded, the sprout acts as a quarterstaff. 
+- A grouping of vines sprouts up, growing up to 15 feet an adjacent wall. The vines can be safely climbed.
+
+You can have at most one plant grown with this feature at a time. Whenever you grow a new plant, the last plant you have grown withers and vanishes. 
 
 > ### Alternate Plants
 > Instead of conjuring one of those three plants, a player might want to grow a unique plant to approach a specific problem. Instead of a shrub to hide behind, a player might want to spout flowers to attract an insect or a cactus to clog up space with its needles. 
@@ -45,8 +45,9 @@ Without further ado, here are sprout and conjure tiny woodland beasts!
 You summon a small woodland creature from the local area. After 1 minute, a tiny CR 0 beast from the environment approaches you. 
 
 The following table contains some examples, and can be rolled on randomly if desired.
-|d12|Beast| d12| Beast
-|:--:|:--|:--:|:--
+
+|d12|Beast| d12| Beast|
+|:--:|:--|:--:|:--|
 |1| Frog|7| Owl|
 |2| Bat|8|Rat|
 |3| Cat|9|Raven|
