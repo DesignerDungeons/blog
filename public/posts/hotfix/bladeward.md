@@ -15,7 +15,9 @@ For those of you out there looking for a printable version of these features, lo
 As usual, here is the official text of the spell.
 > ### Blade Ward
 > Abjuration cantirp
+>
 > Casting time: 1 Action, Target: Self, VS, Duration: 1 round 
+>
 > You extend your hand and trace a sigil of warding in the air. Until the end of your next turn you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks. 
 
 What's wrong with blade ward 
@@ -30,6 +32,7 @@ When should you use one of these fixes?
 
 ### Fix 1: Reactive Warding
 > Casting time: 1 Action, Target: Self, VS, Duration: 1 minute (Concentration) 
+>
 > You extend your hand and trace a sigil of warding in the air. For the duration, whenever you are hit by an attack that deals bludgeoning, piercing, or slashing damage, you can use your reaction to halve the damage.
 
 This itteration of Blade Ward makes it quite a bit more powerful at the cost of a reaction. While it still requires the action to set it up, you can continue to benefit from the cantrip over multiple rounds. Characters that make great constitution saving throws or have the war caster feat can juice this feature for a long time by maintaining conenctration on it and halving damage selectively.
@@ -40,14 +43,13 @@ This fix will work great with players that don't have the *shield* spell, or tab
 
 ### Fix 2: Double the Duration
 > Casting time: 1 Action, Target: Self, VS, Duration: 2 rounds 
+>
 > You extend your hand and trace a sigil of warding in the air. For the duration of this spell you have resistance against bludgeoning, piercing, and slashing damage.
 
-[How this feature addresses problems]
 Fix 2 is the simpler than the prior fix by adding an extra round to the duration of the spell. This alleviates some of the pressure from it costing an action to use. It gives you the ability to blade ward every other round if you want to maintain the resistances instead of requiring it be used every round. 
 
 This version also recieved the quality of life update to be any kind of bludgeoning, slashing, and piercing damage instead of specifically weapon based bludgeoning, slashing, or piercing damage.
 
-[What tables might want to use this fix]
 Fix 2 works great at tables with eldritch knights and abjurers looking to sit in the middle of combat and get attacked by a lot of monsters at once. It costing an action still leaves it being fairly prohibitive, but its extended duration should provide more moments where it can feel like a good choice to use instead of just taking the dodge action. 
 
 ### Fix 3: Adaptive Ward
