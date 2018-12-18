@@ -23,8 +23,11 @@ Without further ado, here are sprout and conjure tiny woodland beasts!
 
 ### Sprout 
 Conjuration cantrip
+
 Casting time: 1 Action.
+
 Range: Touch
+
 Components: Verbal (Grow in Druidic), Material (a patch of dirt, a seed, and a drop of water)
 
 You touch a handfull of unoccupied loose dirt. One of the following small plants of your choice sprouts up from the dirt
@@ -40,9 +43,15 @@ You can have at most one plant grown with this feature at a time. Whenever you g
 
 
 ### Conjure Tiny Woodland Beast
-*Druid*, conjuration, 1 minute, touch
+Conjuration cantrip
 
-You summon a small woodland creature from the local area. After 1 minute, a tiny CR 0 beast from the environment approaches you. 
+Casting time: 1 Minute.
+
+Range: Self
+
+Components: Verbal (a loud animal call), Somatic
+
+You summon a small woodland creature from the local area. After 1 minute, a tiny CR 0 beast from the environment approaches you if able. 
 
 The following table contains some examples, and can be rolled on randomly if desired.
 
@@ -55,11 +64,16 @@ The following table contains some examples, and can be rolled on randomly if des
 |5| Hawk|11|Spider|
 |6| Lizard|12|Weasel| 
 
-The creature treats you as friendly, but won't naturally follow commands. After 1 minute, it flees if able, and vanishes if unable. 
+The creature treats you as friendly, but won't naturally follow commands. After 1 minute, unless it is charmed, it flees if able, and vanishes if unable. 
 
 ### Creative Solutions 
 The core goal behind adding these cantrips to the druid class is to provide tools characters can use to embelish their theme and bring unique tools to the group for world exploration. 
 
 The class could use some additional tools that function similarly to *minor illusion* and *mage hand*, but are unique to the druid ascetic and do disctinctly different things. 
+
+Both of these cantrips dramatically improve a druid's utility out of combat at first level. *Sprout* can shape the world and give druids tools create cover, climb surfaces, and potentially so much more. *Summon Tiny Woodland Creature* gives players a critter to ask questions to, charm, shove off down a hallway, or adopt and charm as a pet. 
+
+### Closing Thoughts
+What do you think about these two cantrips? Does druid have enough exploration early? Do these two cantrips give players tools they'd want to use, or unneccisary improvements? Let me know on Twitter @DesignerDungeons #SpellSchools!
 
 
