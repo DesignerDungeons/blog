@@ -37,7 +37,7 @@ Without further ado, here are *sprout* and *conjure tiny woodland beast*!
 >
 >You can have at most one plant grown with this feature at a time. Whenever you cast this spell, the last plant you have grown withers and vanishes.
 
-<img src="https://janethagerman.com/wp-content/uploads/2014/11/sprout-art-12325580_l.jpg">
+<img src="https://cache.desktopnexus.com/thumbseg/2298/2298808-bigthumbnail.jpg">
 
 #### Alternate Plants
  Instead of conjuring one of those three plants, a player might want to grow a unique plant to approach a specific problem. Instead of a shrub to hide behind, a player might want to spout flowers to attract an insect or a cactus to clog up space with its needles.
@@ -67,7 +67,7 @@ Whatever plant the player wants to conjure ultimately is done with DM permission
 >The beast treats you as friendly, but won't naturally follow commands. It actions are determined by the DM. It disappears when it drops to 0 hit points, when the spell ends, or when you cast this spell again. 
 >
 
-<img src=”http://orig05.deviantart.net/47e4/f/2012/096/f/1/quiet_time_by_benwootten-d4v627s.jpg”
+<img src=”http://orig05.deviantart.net/47e4/f/2012/096/f/1/quiet_time_by_benwootten-d4v627s.jpg”>
 
 ### When to Introduce
 If you are starting a new campaign and have played with early level druids before, this is probably a good time to offer these cantrips as possible choices. Druids, especially in the first few levels, can lack reusable ways to have a big impact on exploration and roleplay. Adding in these cantrips early will help boost up the unique nature of druid spellcasting and define what they are all about.
