@@ -136,7 +136,7 @@ Starting at 2nd level, you can transform into beasts of CR 1/4th or less that ha
 |Killer Whale|3|Huge| Blindsight 120, Keen Hearing, Bite, 90 Hit Points|
 |Giant Shark|5|Huge| Blindsight 60, Blood Frenzy, Bite, 126 Hit Points|
 
-#### Shape the Water
+#### Shape the Flow
 Additionally at 2nd level, as an action you blast a stream of water 5 feet wide and 30 feet long from you in any direction. Choose one of the following effects:
 
 - **Scalding.** Creatures within the stream must make a Dexterity saving throw against your Druid spell save DC. On a failed save, the target takes 2d8 fire damage from the scalding stream, and half as much on a successful save. This damage increases to 3d8 at 5th level, 4d8 at 9th level, 5d8 at 13th level, and 6d8 at 17th level.
