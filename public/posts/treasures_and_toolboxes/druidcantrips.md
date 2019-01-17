@@ -33,7 +33,7 @@ Without further ado, here are *sprout* and *conjure tiny woodland beast*!
 > Duration: Instantaneous 
 >
 > You touch a handful of unoccupied loose dirt. One of the following inedible plants of your choice sprouts up from the dirt
->- A scrawny bush fills a 5x5  areat. Characters behind or inside it are lightly obscured. 
+>- A scrawny bush fills a 5x5  area. Characters behind or inside it are lightly obscured. 
 >- A sturdy sapling grows. It can be uprooted and used as a quarterstaff.
 >- A grouping of vines sprouts up, growing up to 15 feet an adjacent wall. The vines can be safely climbed.
 >
