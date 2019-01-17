@@ -1,6 +1,5 @@
 
 ## Brew Bits: Druid Circles
-<img src="https://media-hearth.cursecdn.com/avatars/321/488/636271885675892017.jpeg" >
 
 Beautiful, vibrantly colored coral lights the ocean floor with a magical rainbow glow. A band of sahuagin circle threateningly around a wiry elf and her comrades as tunnels of exotic fish and strange sea life dance around the two parties. Hands raised, the elf begins speaking in the sahuagin’s coarse tongue attempting to calm the situation. She knew entering their reef would cause conflict. As an ambassador of both land and sea, if anyone can calm these bloodthirsty sharks, its her.
 
