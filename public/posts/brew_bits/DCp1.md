@@ -100,7 +100,7 @@ You learn a cantrip at 2nd level from the chosen body. The chosen bodies also ha
 |7| *hallucinatory terrain*
 |9| *mislead*
 
-#### River
+#### Spring
 |Druid Level|Spell Name|
 |:--:|:--|
 |2| *shape water* *
