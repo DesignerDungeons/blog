@@ -1,13 +1,11 @@
 # Treasures and Toolboxes: Druid Utility Cantrips  
 <img src="http://www.wallpapermaiden.com/wallpaper/15690/download/2048x1536/elf-fantasy-women-squirrel-blue-eyes-tattoo.jpg">
 
-I'm ecstatic to present a new style of article- Treasures and Toolboxes! These have been a long work in progress, but I finally am confident in the material to publish it for you all to see.
+New article time-Treasures and Toolboxes! These have been a long work in progress, but I finally am confident in the material to publish it for you all to see.
 
 These articles are aimed at creating brand new content to add directly to your game. The content here will be paired down the road with our officially released adventures and modules. You’ll get a lot of the content here first though, for free!
 
 I'll be talking about why you'd want to introduce these additions to the table, what situations they will shine in, and creative ways to offer these new options as expanded rewards to players when possible.
-
-Time to loot the chest and see what is inside!
 
 ### PDF
 As with most of our other articles, we'll be providing printer friendly PDFs of the new content presented here with each article.
@@ -25,17 +23,21 @@ Without further ado, here are *sprout* and *conjure tiny woodland beast*!
 
 >### Sprout
 > Conjuration cantrip
->Casting time: 1 Action.
->Range: Touch
+>
+> Casting time: 1 Action.
+>
+> Range: Touch
+>
 > Components: Verbal (Grow in Druidic), Material (a patch of dirt, a seed, and a drop of water)
+
 > Duration: Instantaneous 
 >
->You touch a handful of unoccupied loose dirt. One of the following inedible plants of your choice sprouts up from the dirt
+> You touch a handful of unoccupied loose dirt. One of the following inedible plants of your choice sprouts up from the dirt
 >- A scrawny bush fills a 5x5  areat. Characters behind or inside it are lightly obscured. 
 >- A sturdy sapling grows. It can be uprooted and used as a quarterstaff.
 >- A grouping of vines sprouts up, growing up to 15 feet an adjacent wall. The vines can be safely climbed.
 >
->You can have at most one plant grown with this feature at a time. Whenever you cast this spell, the last plant you have grown withers and vanishes.
+> You can have at most one plant grown with this feature at a time. Whenever you cast this spell, the last plant you have grown withers and vanishes.
 
 <img src="https://cache.desktopnexus.com/thumbseg/2298/2298808-bigthumbnail.jpg">
 
@@ -46,9 +48,13 @@ Whatever plant the player wants to conjure ultimately is done with DM permission
 
 >### Conjure Tiny Woodland Beast
 >Conjuration cantrip
+>
 >Casting Time: 1 action
+>
 >Range: 90 feet
+>
 >Components: Verbal (“Come little one” in druidic), Material (A bit of seed, meat, or other animal food)
+>
 >Duration: Up to 1 hour
 >
 >You summon a tiny or small CR 0 woodland creature from the local area that appears within range. The DM chooses the type of animal to appear.
