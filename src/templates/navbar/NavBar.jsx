@@ -45,7 +45,7 @@ class NavBar extends Component{
                 <Link to="/" >Designer Dungeons</Link>
                 {category}
                 {/*<SocialMediaButton icon={['fab', 'twitter-square']} href={twitterLink} />*/}
-                <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>
+                <span className="icon" onClick={() => this.toggleHamburger()}>&#9776;</span>
             </div>
 		);
 	}

@@ -4,7 +4,9 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+
   },
   "dependencies": {
     "@babel/register": "^7.0.0",
@@ -16,5 +18,8 @@
   },
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Designer Dungeons"
+  "author": "Designer Dungeons",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
