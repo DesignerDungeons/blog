@@ -3,7 +3,7 @@
   "title": "Be a Better",
   "path": "/be_a_better",
   "icon":"/icons/003-objective.png",
-  "url":"/be_a_better",
+  "url":"be_a_better",
   "posts": [
     {
       "name":"Be a Better: Bladelock",

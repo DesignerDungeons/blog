@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import ReactMarkdown from "react-markdown";
-// import ShareButtons from './ShareButtons';
 import Layout from '../../components/Layout';
 import './post.css';
+import {withPrefix} from 'gatsby';
 
 class Post extends Component {
     constructor(props){
@@ -14,7 +14,7 @@ class Post extends Component {
 
     componentDidMount(){
         let post = this.props.pageContext.post;
-        let path = `/static/posts/${post.category}/${post.url}`;
+        let path = withPrefix(`/posts/${post.category}/${post.url}`);
         fetch(path)
             .then(response => {
                 if (!response.ok) {

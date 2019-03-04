@@ -3,7 +3,7 @@
   "title": "Brew Bits",
   "path": "/brew_bits",
   "icon":"/icons/001-flasks.png",
-  "url":"/brew_bits",
+  "url":"brew_bits",
   "posts": [
     {
       "name":"Building a Warlock Patron Part 1",
