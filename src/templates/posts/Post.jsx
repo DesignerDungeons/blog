@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import ReactMarkdown from "react-markdown";
 import Layout from '../../components/Layout';
 import './post.css';
-import {withPrefix} from 'gatsby';
+import {withPrefix} from 'gatsby'
 
 class Post extends Component {
     constructor(props){
@@ -12,7 +12,7 @@ class Post extends Component {
         }
     }
 
-    componentDidMount(){
+    componentWillMount(){
         let post = this.props.pageContext.post;
         let path = withPrefix(`/posts/${post.category}/${post.url}`);
         fetch(path)

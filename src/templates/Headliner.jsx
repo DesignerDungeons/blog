@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {Link, withPrefix} from 'gatsby';
 
+
 class Headliner extends Component {
 
     render() {
