@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Link} from 'gatsby';
+import {Link, withPrefix} from 'gatsby';
 
 
 class Headliner extends Component {
@@ -12,7 +12,7 @@ class Headliner extends Component {
                 <Link className="headline" to={`/${post.category}/${post.path}/`}>
                     <img className="headline" src={post.cardImage} alt="post.name"/>
                 </Link>
-                <img className="topic-icon" src={post.icon} alt={post.categoryTitle}/>
+                <img className="topic-icon" src={withPrefix(post.icon)} alt={post.categoryTitle}/>
                 <div className='headline-text'>
                     <h1 className="topic-name">{post.categoryTitle}</h1>
                     <Link className="headline" to={`/${post.category}/${post.path}/`}>
