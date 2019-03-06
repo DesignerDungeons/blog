@@ -29,7 +29,15 @@ function getData() {
 
 exports.createPages = async ({actions: {createPage}}) => {
 
+    let fs = require('fs');
+
     let posts = getData();
+    for (let i in posts) {
+        if(posts.hasOwnProperty(i)){
+            fs.readFile(`./static/posts/${posts[i].category}/${posts[i].url}`, 'utf8',
+                (err, markdown) => posts[i].markdown = markdown);
+        }
+    }
 
     createPage({
         path: `/`,
