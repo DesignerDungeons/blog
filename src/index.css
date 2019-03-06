@@ -2,9 +2,9 @@
     --font-family: "Trebuchet MS", fantasy;
     --black:#090909;
     --gray: #4B5043;
-    --oragne:#ED7053;
-    --red:#E04F3C;
-    --yellow:#F4E6A8;
+    --yellow:#F9F2D2;
+    --block-yellow:#F4E6A8;
+    --light-grey: #8f9980
 }
 
 body {
@@ -23,6 +23,36 @@ div.content {
     div.content{
         margin: 50px 0 0 0;
     }
+
+    /*table {*/
+        /*margin: 1em auto;*/
+    /*}*/
+}
+
+blockquote {
+    background: var(--block-yellow);
+    border-left: 5px solid var(--gray);
+    border-right: 5px solid var(--gray);
+    margin: 1em 5px;
+    padding: 0.5em 10px;
+}
+
+table {
+    background: var(--block-yellow);
+    border-left: 5px solid var(--gray);
+    border-right: 5px solid var(--gray);
+    margin: 1em 5px;
+    padding: 0.5em 5px;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: var(--light-grey);
+}
+
+td, th{
+    padding: 0.5rem;
+    border: 1px solid var(--gray);
 }
 
 .shadowed-container {
