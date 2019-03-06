@@ -34,7 +34,7 @@ exports.createPages = async ({actions: {createPage}}) => {
     let posts = getData();
     for (let i in posts) {
         if(posts.hasOwnProperty(i)){
-            fs.readFile(`./static/posts/${posts[i].category}/${posts[i].url}`, 'utf8',
+            fs.readFile(`./src/data/posts/${posts[i].category}/${posts[i].url}`, 'utf8',
                 (err, markdown) => posts[i].markdown = markdown);
         }
     }

@@ -3,16 +3,16 @@
   "description": "",
   "scripts": {
     "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
+    "build": "gatsby build --prefix-paths",
+    "serve": "gatsby serve --prefix-paths",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "@babel/register": "^7.0.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "gatsby": "^2.0.76",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "gatsby": "^2.1.23",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
     "react-markdown": "^4.0.6"
   },
   "version": "1.0.0",
