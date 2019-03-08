@@ -26,7 +26,7 @@ class Home extends React.Component {
 
         for(let i=0; i< posts.length; i++){
             let post = posts[i];
-            if(post.markdown && (post.markdown.indexOf(search) > 0)){
+            if(post.markdown && (post.markdown.toLowerCase().indexOf(search) !== -1)){
                 filteredPosts.push(post)
             }
         }
@@ -35,7 +35,7 @@ class Home extends React.Component {
     }
 
     render(){
-        return (<Layout >
+        return (<Layout>
             <Search searchString={this.state.searchString} updateFunction={this.handleSearchChange.bind(this)}/>
             {this.state.posts.map(post => (<Headliner post={post} key={post.url}/>))}
         </Layout>);
