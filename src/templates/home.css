@@ -42,6 +42,24 @@ a.headline {
     color: var(--black);
 }
 
+.search-bar {
+    position: fixed;
+    top: 5px;
+    right: 10px;
+    z-index: 1;
+}
+
+.search-bar > span{
+    color: var(--yellow);
+    margin: 10px;
+}
+
+.search-bar > input[type=text] {
+    background-color: var(--yellow);
+    border: none;
+    padding: 12px 20px;
+}
+
 @media screen and (max-width: 600px) {
     img.headline {
         width: 150px;
@@ -74,5 +92,8 @@ a.headline {
     h2.post-name {
         margin: 5px;
         font-size: 1.1em;
+    }
+    .search-bar {
+        display: none;
     }
 }

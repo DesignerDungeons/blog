@@ -23,17 +23,13 @@ div.content {
     div.content{
         margin: 50px 0 0 0;
     }
-
-    /*table {*/
-        /*margin: 1em auto;*/
-    /*}*/
 }
 
 blockquote {
     background: var(--block-yellow);
     border-left: 5px solid var(--gray);
     border-right: 5px solid var(--gray);
-    margin: 1em 5px;
+    margin: 1em auto;
     padding: 0.5em 10px;
 }
 
